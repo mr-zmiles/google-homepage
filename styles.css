@@ -1,0 +1,68 @@
+/*
+  Name: Zach Miles
+  Date Created: 8/27/2019
+  Most recent version: 
+  --> */
+
+  body{
+    color: #000;
+    opacity: 0.75;
+    font: 13px arial, sans-serif; 
+  }
+
+/*Styling for Links*/
+  #left_links a{
+      display: inline-block;
+      padding-left: 15px;
+ 
+  }
+
+  #right_links{
+        float: right;
+  }
+
+  #right_links a{
+    padding-left: 15px;
+}
+
+  a:visited{
+      color: #609;
+  }
+
+  a{
+      text-decoration: none;
+  }
+
+   /*Styling for Center Secton*/
+   #center{
+       text-align: center;
+   }
+
+   #logo{
+       padding-top: 109px;
+       height: 92px;
+       width: 272px;
+   }
+
+   #search_bar{
+       margin-bottom: 10px;
+   }
+
+  /*Styling for Footer*/
+  #fbar{
+      background: #f2f2f2;
+      border-top: 1px solid #e4e4e4;
+      line-height: 40px;
+      min-width: 980px;
+  }
+
+  #fbar a{
+      padding-left: 15px;
+  }
+
+  footer{
+      bottom: 0;
+      height: 35px;
+      position: absolute;
+      width: 100%;
+  }
