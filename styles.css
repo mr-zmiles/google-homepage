@@ -46,6 +46,26 @@
 
    #search_bar{
        margin-bottom: 10px;
+       border-radius: 20px;
+       margin: 15px 0 15px 0;
+       line-height: 34px;
+       height: 34px !important;
+       width: 30%;
+   }
+
+   .buttons{
+       padding: 0 16px;
+       font-size: 14px;
+       cursor: pointer;
+       border-radius: 4px;
+       background-color: #f2f2f2;
+       border: 1px solid #f2f2f2;
+       min-width: 54px;
+       padding: 0 16px;
+       text-align: center;
+       height: 36px;
+       line-height: 27px;
+       color: #5f6368;
    }
 
   /*Styling for Footer*/
